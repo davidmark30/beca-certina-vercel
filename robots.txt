@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://becaritacetinagob.vercel.app/sitemap.xml
